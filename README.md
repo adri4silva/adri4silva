@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi there, my name is Adrián 👋
 
+I'm an iOS developer currently working remotely from Spain. My passions, when it comes to software development are: functional programming, software architecture and product design. I've been developing iOS apps professionally for almost three years, mostly using reactive frameworks and programmatic UI interfaces.
+
+### Experience
+
+- 🚕 I’m currently working on FREE NOW as an iOS developer for the driver app. We try to create the best tools for the drivers, so they can work efficiently.
+- 📱 In the past, I worked at Quobis as an iOS developer. There we built communication tools based in Google's WebRTC library. 
 <!--
 **adri4silva/adri4silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
