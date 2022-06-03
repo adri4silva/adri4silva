@@ -4,8 +4,8 @@ I'm an iOS developer currently working remotely from Spain. My passions, when it
 
 ### 👨‍💻 Experience
 
-- 🔭 I’m currently working at Hopin as an iOS developer.
-- 📱 In the past, I worked at Quobis and FREENOW
+- 🔭 I’m currently working at Trade Republic as an iOS developer.
+- 📱 In the past, I worked at Quobis, FREENOW and Hopin
 <!--
 **adri4silva/adri4silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
