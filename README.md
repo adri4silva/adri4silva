@@ -2,10 +2,14 @@
 
 I'm an iOS developer currently working remotely from Spain. My passions, when it comes to software development are: functional programming, software architecture and product design. I've been developing iOS apps professionally for over three years, mostly using reactive frameworks and programmatic UI interfaces.
 
+### 🤩 Github Stats
+![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=adri4silva&count_private=true&show_icons=true&theme=outrun)
+
 ### 👨‍💻 Experience
 
 - 🔭 I’m currently working at Trade Republic as an iOS developer.
 - 📱 In the past, I worked at Quobis, FREENOW and Hopin
+
 <!--
 **adri4silva/adri4silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
